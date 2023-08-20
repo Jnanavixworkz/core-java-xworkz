@@ -1,2 +1,0 @@
-class GtMall extends Mall{
-}

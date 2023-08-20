@@ -1,2 +1,0 @@
-class Pink extends Color{
-}
